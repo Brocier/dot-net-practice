@@ -1,0 +1,11 @@
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/bin/Debug/netcoreapp2.1/firstHelloWorld.deps.json
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/bin/Debug/netcoreapp2.1/firstHelloWorld.runtimeconfig.json
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/bin/Debug/netcoreapp2.1/firstHelloWorld.runtimeconfig.dev.json
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/bin/Debug/netcoreapp2.1/firstHelloWorld.dll
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/bin/Debug/netcoreapp2.1/firstHelloWorld.pdb
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/obj/Debug/netcoreapp2.1/firstHelloWorld.csprojAssemblyReference.cache
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/obj/Debug/netcoreapp2.1/firstHelloWorld.csproj.CoreCompileInputs.cache
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/obj/Debug/netcoreapp2.1/firstHelloWorld.AssemblyInfoInputs.cache
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/obj/Debug/netcoreapp2.1/firstHelloWorld.AssemblyInfo.cs
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/obj/Debug/netcoreapp2.1/firstHelloWorld.dll
+/Users/joshuaschoenfeld/coding_projects/dotnet_practice/firstHelloWorld/obj/Debug/netcoreapp2.1/firstHelloWorld.pdb
